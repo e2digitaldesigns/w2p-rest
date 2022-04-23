@@ -1,0 +1,20 @@
+youtube:
+https://www.youtube.com/watch?v=KgnJNJk9-to
+
+1) npx tsc --init
+2) npm init -y
+3 npm i ts-node-dev typescript -D
+
+npm i express @types/node @types/express -D
+
+
+https://mongoosejs.com/docs/typescript.html
+
+
+Host files
+C:\Windows\System32\drivers\etc
+
+
+DBs
+https://mongoosejs.com/docs/connections.html#multiple_connections
+Another alternative is to register connections with a dependency injector or another inversion of control (IOC) pattern.
