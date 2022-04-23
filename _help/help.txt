@@ -1,0 +1,11 @@
+youtube:
+https://www.youtube.com/watch?v=KgnJNJk9-to
+
+1) npx tsc --init
+2) npm init -y
+3 npm i ts-node-dev typescript -D
+
+npm i express @types/node @types/express -D
+
+
+https://mongoosejs.com/docs/typescript.html
